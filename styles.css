@@ -1,5 +1,9 @@
 body {
   margin: 0;
-  background: yellow;
+}
+header {
   text-align: center;
+}
+main {
+  background: yellow; 
 }
