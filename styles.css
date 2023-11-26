@@ -2,13 +2,13 @@ body{
     width: 100%;
     font-family: 'Raleway', sans-serif;
     font-size: 100%;
-    margin: auto;
-    color: #BDECB6;
+    margin: auto;   
 }
 header {
     width: 100%;
     text-align: center;
     border-bottom: 10px solid #66CCCC;
+    color: #FFFFFF;
 }
 main{
     width: 100%;
@@ -16,4 +16,5 @@ main{
     display:flex;
     flex-direction: column;
     align-items: center;
+     color: #BDECB6;
 }
