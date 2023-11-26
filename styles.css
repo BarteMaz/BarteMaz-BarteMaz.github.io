@@ -4,8 +4,8 @@ body{
     font-weight: bold;
     font-size: 150%;
     margin: auto;
-    background-color: #ffffff;
-    
+    background-color: #66CCCC;
+    background-image: radial-gradient(rgba(90, 88, 88, 0), rgba(255, 255, 255, 0.426));
 }
 header {
   text-align: center;
