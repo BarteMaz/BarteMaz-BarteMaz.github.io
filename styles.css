@@ -8,6 +8,7 @@ body{
 header {
     width: 100%;
     text-align: center;
+    border-bottom: 10px solid #66CCCC;
 }
 main{
     width: 100%;
