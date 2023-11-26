@@ -12,11 +12,11 @@ header {
     justify-content: center; 
     border-bottom: 10px solid #000000;
 }
-.main_style{
+main{
     width: 100%;
     display:flex;
     flex-direction: column;
     align-items: center;
-    color: #BDECB6;
+    background-color: #BDECB6;
 }
 
