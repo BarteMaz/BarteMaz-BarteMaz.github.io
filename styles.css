@@ -1,5 +1,4 @@
 body{
-    height: 100%;
     font-family: 'Raleway', sans-serif;
     font-size: 100%;
     margin: 0;
@@ -7,6 +6,7 @@ body{
 }
 html{
     height: 100%;
+    margin: 0;
 }
 .main_section{
     display: flex;
@@ -19,17 +19,17 @@ html{
     height: 100%;
     background-image: url(web_background.jpg);
     position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 .text{
-
     background-color: black;
     opacity: 90%;
     color: white;
     padding: 2%;
     border-radius: 25px;
 }
-
 .introduction{
     display: flex;
     flex-direction: column;
