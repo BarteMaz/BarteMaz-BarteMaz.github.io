@@ -6,9 +6,11 @@ body{
 }
 header {
     width: 100%;
-    text-align: center;
+    height: 150px;
+    display:flex;
+    justify-content: center; 
     border-bottom: 10px solid #66CCCC;
-    color: #FFFFFF;
+    background-color: #FFFFFF;
 }
 main{
     width: 100%;
@@ -16,5 +18,5 @@ main{
     display:flex;
     flex-direction: column;
     align-items: center;
-     color: #BDECB6;
+    background-color: #BDECB6;
 }
