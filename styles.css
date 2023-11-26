@@ -4,6 +4,9 @@ body{
     margin: 0;
     padding: 0;
 }
+html{
+    height: 100%;
+}
 .main_section{
     display: flex;
     align-items: center;
